@@ -1,0 +1,51 @@
+Name,Address,FoodType,Rating,Budget,Diet Pref,Latitude,Longitude
+Udon Mugizo,"180 Castro St, Mountain View, CA 94041",Vegetarian,3,$$,Asian,37.39437,-122.07892
+Gochi,"1943 W El Camino Real, Mountain View, CA 94041",Vegan,2,$$$,Greek,37.39356,-122.0981
+Eureka ,"191 Castro St, Mountain View, CA 94041",Neither,3,$$$$,Italian ,37.39312,-122.07864
+Changan Artisan,"580 N Rengstorff Ave ste j, Mountain View, CA 94043",Neither,4,$$$,Burgers,37.41082,-122.09365
+Mifen,"841 Villa St, Mountain View, CA 94041",Neither,5,$,Asian,37.39399,-122.07948
+Vaso Azzurro Ristorante,"108 Castro St, Mountain View, CA 94041",Vegan,3,$$$,Burgers,37.39496,-122.07844
+Bajis Caf,"2423 Old Middlefield Way, Mountain View, CA 94043",Vegetarian,4,$$,Greek,37.41522,-122.09797
+Bentro Express,"1677 Hollenbeck Ave, Sunnyvale, CA 94087",Vegan,5,$$$,Italian ,37.33889,-122.04259
+Mama Chen's Kitchen,"19052 Stevens Creek Blvd, Cupertino, CA 95014",Neither,5,$$$,Asian,37.32268,-122.00567
+Caspian ,"1910 W El Camino Real D, Mountain View, CA 94040",Vegetarian,2,$$,Greek,37.39475,-122.09675
+Fas Bierhauz,"135 Castro St, Mountain View, CA 94041",Neither,4,$$$,Burgers,37.39526,-122.07825
+Ludwigs Biergarten,"383 Castro St, Mountain View, CA 94041",Vegan,5,$$,Italian ,37.39205,-122.08047
+Vive Sol,"2020 W El Camino Real, Mountain View, CA 94040",Neither,4,$,Mexican,37.39628,-122.09914
+3 Kingdoms Hot Pot,"134B Castro St, Mountain View, CA 94041",Neither,2,$$$,Asian,37.39542,-122.07845
+The Emerald Hour,"1625 N Shoreline Blvd, Mountain View, CA 94043",Neither,5,$$$$$,Burgers,37.41757,-122.07762
+La Fontaine,"186 Castro St, Mountain View, CA 94041",Neither,5,$$$$$,Italian ,37.39518,-122.078
+La Fiesta,"240 Villa St, Mountain View, CA 94041",Vegetarian,4,$$$$,Mexican,37.39248,-122.07285
+Grandma's Kitchen,"19541 Richwood Dr, Cupertino, CA 95014",Neither,3,$$$,Asian,37.32309,-122.01471
+The City Fish,"21678 Stevens Creek Blvd, Cupertino, CA 95014",Vegan,3,$$$$,Burgers,37.32329,-122.05355
+Sweet Sicily,"100 S Murphy Ave, Sunnyvale, CA 94089",Neither,5,$$$,Italian ,37.37808,-122.02933
+DishDash,"190 S Murphy Ave, Sunnyvale, CA 94086",Neither,2,$$$$,Greek,37.37665,-122.03009
+The Oxford Kitchen,"195 S Murphy Ave, Sunnyvale, CA 94086",Neither,4,$$$,Burgers,37.3769,-122.03072
+Sifu Wong Kitchen,"1219 Wildwood Ave, Sunnyvale, CA 94089",Neither,3,$$,Asian,37.39207,-121.99203
+Gombei Bento,"155 E Maude Ave, Sunnyvale, CA 94085",Vegetarian,2,$$$$,Asian,37.38876,-122.02489
+Tacos El Noa Noa,"296 Fair Oaks Ave, Sunnyvale, CA 94085",Neither,3,$$$,Mexican,37.37417,-122.02102
+Tap't Beer,"259 W Washington Ave, Sunnyvale, CA 94086",Neither,5,$$,Burgers,37.37693,-122.03192
+Falafel Flame,"470 N Mathilda Ave, Sunnyvale, CA 94085",Vegetarian,3,$$,Greek,37.38864,-122.0295
+Cucina Venti,"1390 Pear Ave Ste D, Mountain View, CA 94043",Neither,5,$$$,Italian ,37.41643,-122.07749
+Sizzling Lunch,"10033 Saich Way, Cupertino, CA 95014",Vegan,3,$$$$,Asian,37.32428,-122.0373
+Egghead Cafe,"19929 Stevens Creek Blvd, Cupertino, CA 95014",Neither,4,$$$,Burgers,37.32391,-122.02235
+XLB Kitchen,"10235 S De Anza Blvd, Cupertino, CA 95014",Vegetarian,3,$$$,Mexican,37.33021,-122.03709
+Chez TJ,"938 Villa St, Mountain View, CA 94041",Neither,4,$$$$,Italian ,37.39511,-122.08039
+Don Giovani,"235 Castro St, Mountain View, CA 94041",Vegetarian,4,$$$$,Italian ,37.39402,-122.07889
+Cascal,"400 Castro St, Mountain View, CA 94041",Vegan,4,$$$$,Italian ,37.39185,-122.08138
+Papas and Eggs,"2070 Old Middlefield Way, Mountain View, CA 94043",Neither,3,$$$,Burgers,37.41543,-122.09257
+Bonchon,"572 E El Camino Real, Sunnyvale, CA 94087",Neither,5,$$,Asian,37.36326,-122.02744
+Chick and Tea,"587 E El Camino Real, Sunnyvale, CA 94087",Neither,2,$$,fast food ,37.3638,-122.0254
+Starbird Chicken,"1241 W El Camino Real, Sunnyvale, CA 94087",Neither,5,$$,fast food ,37.37512,-122.05715
+In-N-Out Burger,"53 W El Camino Real, Mountain View, CA 94040",Neither,5,$$,fast food ,37.38092,-122.07395
+Jack in the Box,"200 W El Camino Real, Mountain View, CA 94040",Neither,4,$,fast food ,37.38375,-122.07777
+KFC,"696 W El Camino Real, Mountain View, CA 94040",Neither,3,$,fast food ,37.38607,-122.08281
+Panera Bread,"1035 El Monte Ave, Mountain View, CA 94041",Neither,2,$,fast food ,37.39177,-122.09504
+Taco Bell,"991 W El Camino Real, Sunnyvale, CA 94087",Neither,4,$,fast food ,37.37327,-122.04717
+Subway,"22352 Homestead Rd, Cupertino, CA 95014",Neither,4,$,fast food ,37.34309,-122.06614
+McDonald's,"10990 N Stelling Rd, Cupertino, CA 95014",Neither,3,$,fast food ,37.34227,-122.04279
+Chipotle,"20688 Homestead Rd, Cupertino, CA 95014",Neither,5,$,fast food ,37.33873,-122.03694
+Carl's Jr.,"209 E Middlefield Rd, Mountain View, CA 94043",Neither,5,$$,fast food ,37.40359,-122.06036
+El Califas Tacos,"850 Leong Dr, Mountain View, CA 94043",Vegetarian,5,$$,fast food ,37.41178,-122.06538
+Fast Pizza,"327 Moffett Blvd, Mountain View, CA 94043",Neither,4,$$$,fast food ,37.40093,-122.07486
+Los Altos Taqueria,"2105 Old Middlefield Way E, Mountain View, CA 94043",Neither,5,$$,fast food ,37.4147,-122.09333
